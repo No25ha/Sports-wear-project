@@ -1,0 +1,88 @@
+C:\Users\MINA\source\repos\sports wear\sports wear\bin\Debug\sports wear.exe.config
+C:\Users\MINA\source\repos\sports wear\sports wear\bin\Debug\sports wear.exe
+C:\Users\MINA\source\repos\sports wear\sports wear\bin\Debug\sports wear.pdb
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports wear.csproj.AssemblyReference.cache
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports_wear.Form2.resources
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports_wear.Form3.resources
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports_wear.Properties.Resources.resources
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports wear.csproj.GenerateResource.cache
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports wear.csproj.CoreCompileInputs.cache
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports wear.exe
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports wear.pdb
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports_wear.staff.resources
+C:\Users\MINA\source\repos\sports wear\sports wear\obj\Debug\sports_wear.welcome.resources
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\bin\Debug\sports wear.exe.config
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\bin\Debug\sports wear.exe
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\bin\Debug\sports wear.pdb
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports wear.csproj.AssemblyReference.cache
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports_wear.welcome.resources
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Form2.resources
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Form3.resources
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Properties.Resources.resources
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports_wear.staff.resources
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports wear.csproj.GenerateResource.cache
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports wear.csproj.CoreCompileInputs.cache
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports wear.exe
+C:\Users\MINA\OneDrive\Desktop\sports wear\sports wear\obj\Debug\sports wear.pdb
+D:\sports wear\sports wear\bin\Debug\sports wear.exe.config
+D:\sports wear\sports wear\bin\Debug\sports wear.exe
+D:\sports wear\sports wear\bin\Debug\sports wear.pdb
+D:\sports wear\sports wear\obj\Debug\sports wear.csproj.AssemblyReference.cache
+D:\sports wear\sports wear\obj\Debug\sports_wear.welcome.resources
+D:\sports wear\sports wear\obj\Debug\sports_wear.Form2.resources
+D:\sports wear\sports wear\obj\Debug\sports_wear.Form3.resources
+D:\sports wear\sports wear\obj\Debug\sports_wear.Properties.Resources.resources
+D:\sports wear\sports wear\obj\Debug\sports_wear.staff.resources
+D:\sports wear\sports wear\obj\Debug\sports wear.csproj.GenerateResource.cache
+D:\sports wear\sports wear\obj\Debug\sports wear.csproj.CoreCompileInputs.cache
+D:\sports wear\sports wear\obj\Debug\sports wear.exe
+D:\sports wear\sports wear\obj\Debug\sports wear.pdb
+D:\sports wear\sports wear\obj\Debug\sports_wear.stock_size.resources
+D:\sports wear\sports wear\obj\Debug\sports_wear.add_customer.resources
+D:\sports wear\sports wear\obj\Debug\sports_wear.Branch.resources
+E:\sports wear\sports wear\bin\Debug\sports wear.exe.config
+E:\sports wear\sports wear\bin\Debug\sports wear.exe
+E:\sports wear\sports wear\bin\Debug\sports wear.pdb
+E:\sports wear\sports wear\obj\Debug\sports wear.csproj.AssemblyReference.cache
+E:\sports wear\sports wear\obj\Debug\sports_wear.add_customer.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.Branch.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.welcome.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.Form2.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.Form3.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.Properties.Resources.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.staff.resources
+E:\sports wear\sports wear\obj\Debug\sports_wear.stock_size.resources
+E:\sports wear\sports wear\obj\Debug\sports wear.csproj.GenerateResource.cache
+E:\sports wear\sports wear\obj\Debug\sports wear.csproj.CoreCompileInputs.cache
+E:\sports wear\sports wear\obj\Debug\sports wear.exe
+E:\sports wear\sports wear\obj\Debug\sports wear.pdb
+C:\Users\Dell\Desktop\sports wear\sports wear\bin\Debug\sports wear.exe.config
+C:\Users\Dell\Desktop\sports wear\sports wear\bin\Debug\sports wear.exe
+C:\Users\Dell\Desktop\sports wear\sports wear\bin\Debug\sports wear.pdb
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports wear.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.add_customer.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Branch.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.welcome.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Form2.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Form3.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.Properties.Resources.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports_wear.staff.resources
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports wear.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports wear.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports wear.exe
+C:\Users\Dell\Desktop\sports wear\sports wear\obj\Debug\sports wear.pdb
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\bin\Debug\sports wear.exe.config
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\bin\Debug\sports wear.exe
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\bin\Debug\sports wear.pdb
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports wear.csproj.AssemblyReference.cache
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.add_customer.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.Branch.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.welcome.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.Form2.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.Form3.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.Properties.Resources.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports_wear.staff.resources
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports wear.csproj.GenerateResource.cache
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports wear.csproj.CoreCompileInputs.cache
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports wear.exe
+C:\Users\Noha\Desktop\all projects\DB sports wear project\DB sports wear project\sports wear\obj\Debug\sports wear.pdb
